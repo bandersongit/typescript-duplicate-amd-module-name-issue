@@ -1,5 +1,5 @@
 # typescript-duplicate-amd-module-name-issue
-Minimal repo for reproducing issue with duplicate amd-module name declarations being emitted
+Minimal repo for reproducing issue with duplicate amd-module name declarations being emitted. See https://github.com/Microsoft/TypeScript/issues/25588
 
 ### Reproduction Steps:
 1. npm install
