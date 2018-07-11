@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^3.0.0-dev.201"
+  },
+  "scripts": {
+    "generateDeclarations": "tsc -p tsconfig.json"
+  }
+}
